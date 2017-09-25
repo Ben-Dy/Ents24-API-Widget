@@ -3,7 +3,7 @@ A demonstration of retrieving data from the Ents24 API using C#
 
 Code written using Visual Studio 2017 and .Net Framework v4.6.1. It will probably work with earlier versions of those two though.
 
-Project requires Newtonsoft.Json package to be available.
+Project requires Newtonsoft.Json package to be available. I decided not to add the Packages folder to this project, so you will need to install the package from Nuget.
 
 Usage
 -----
