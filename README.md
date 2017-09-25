@@ -1,4 +1,4 @@
-# Ents24-API-Widgit
+# Ents24-API-Widget
 A demonstration of retrieving data from the Ents24 API using C#
 
 Code written using Visual Studio 2017 and .Net Framework v4.6.1. It will probably work with earlier versions of those two though.
